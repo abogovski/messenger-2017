@@ -28,6 +28,7 @@ Do something, if node's lost too many neigbours?
 Voting for correct answer?
 ## AsyncRoutingNode Implementation
 NOT DISCUSSED YET
+
 For now, code should be executed inside of sandbox that emulate network of 
 routing servers, e.g.
 ```
